@@ -1,9 +1,9 @@
 import { configureStore } from '@reduxjs/toolkit';
-import greetingsReducer from './greetings/greetingsSlice';
+import greetingReducer from './greetingSlice';
 
 const store = configureStore({
   reducer: {
-    greetings: greetingsReducer,
+    greeting: greetingReducer,
   },
 });
 
