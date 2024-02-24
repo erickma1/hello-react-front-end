@@ -45,7 +45,12 @@
 - React
 - Linters
 
+### Tech Stack <a name="tech-stack"></a>
 
+<details>
+  <summary>Client</summary>
+    <li><a href="https://reactjs.org/">React</a></li>
+</details>
 
 
 <!-- Features -->
